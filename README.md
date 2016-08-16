@@ -1,5 +1,11 @@
+## Scope
+Main requirements (no optional things) + interface
+
+## Demo
+https://www.dropbox.com/sh/8in8jp85g9xuipf/AACGyQkPzTv0U1uVhQ5v66Fza?dl=0
+
 ## Install
-git clone ...  
+git clone https://github.com/yury-chernushenko/blackbill.git  
 sudo pip install -U docker-compose // Might take some time
 
 ## Usage

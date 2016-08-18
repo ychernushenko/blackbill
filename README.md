@@ -1,5 +1,6 @@
 ## Scope
-Main requirements (no optional things) + interface
+Main requirements (no optional things) + interface  
+Task description in the file SeniorBackendApplicantTest.pdf
 
 ## Demo
 https://www.dropbox.com/sh/8in8jp85g9xuipf/AACGyQkPzTv0U1uVhQ5v66Fza?dl=0
